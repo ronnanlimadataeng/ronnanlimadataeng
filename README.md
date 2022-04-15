@@ -75,34 +75,3 @@
     <a href="https://github.com/ronnanlimao/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=ronnanlimao&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1"/></a>
   </details>
 </p>
-
-<h3> Patrocinio Weather ⛅</h3>
-<table>
-  <tr>
-    <th>Weather</th>
-    <th>Temperature</th>
-    <th>Sunrise</th>
-    <th>Sunset</th>
-    <th>Humidity</th>
-  </tr>
-  <tr style="text-align:center">
-    <td><b><i>mist</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;50n.png></td>
-    <td><b>25°C</b></td>
-    <td><b>06:46</b></td>
-    <td><b>18:50</b></td>
-    <td><b>94%</b></td>
-  </tr>
-</table>
-
-<div align="right">
-  Last refreshed: <b>Friday, 12 November, 02:19 GMT+8</b>
-  <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
-  <details>
-    <summary>
-      <b>Credits</b>
-    </summary>
-    Dynamic README inspired by <b><i><a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert</a></i></b> and <b><i><a href="https://github.com/simonw/simonw">Simon Willison</a></i></b>
-    <br>Markdown Badges by <b><i><a href="https://github.com/Ileriayo/markdown-badges">Ileriayo Adebiyi</a></i></b>
-    <br>Weather Info by <b><i><a href="https://openweathermap.org/api">OpenWeather</a></i></b>
-  </details>
-</div>
