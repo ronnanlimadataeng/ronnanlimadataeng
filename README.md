@@ -2,16 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Um+engenheiro+de+dados+em+construção...;Se+Preparando+para+o+futuro!)](https://github.com/DenverCoder1/readme-typing-svg)
 
-
-<h2 align="center"> Tecnologias </h2>
-
-<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="30" width="50" /></a>
-<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="30" width="50" /></a>
-<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="50" /></a>
-
-<br>
-
- ## 🚀 **Linguagens e Ferramentas:**
+## 🚀 **Linguagens e ferramentas - Engenharia de dados:**
 
  #### 💻 Uso diário:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
