@@ -39,7 +39,6 @@
  ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
 
   <br>
-----
 
 <h2 align="center"> Entre em contato comigo!! </h2>
 
