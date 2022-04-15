@@ -5,8 +5,8 @@
 ## 🚀 **Certificações, Linguagens e ferramentas - Engenharia de dados:**
 
  #### 💻 Certificações:
- ![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
- ![Microsoft Certified: Azure Data Fundamentals](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
+ ![Microsoft Certified - Azure Fundamentals](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
+ ![Microsoft Certified - Azure Data Fundamentals](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
  
  #### 💻 Cursos Realizados:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
