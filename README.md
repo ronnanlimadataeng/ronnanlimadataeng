@@ -1,16 +1,16 @@
 <h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25 px"/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /><a href="https://github.com/ronnanlimao"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ronnanlimao" alt="Visitors"></a></h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Currently+coding+for+fun...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Um+engenheiro de dados+em+construção...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
 
 
-<h2 align="center"> Technologies </h2>
+<h2 align="center"> Tecnologias </h2>
 
 <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="30" width="50" /></a>
 <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="30" width="50" /></a>
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="50" /></a>
 ----
 
-<h2 align="center"> Contact me </h2>
+<h2 align="center"> Entre em contato comigo!! </h2>
 
 <p>
 <a href="https://www.linkedin.com/in/ronnan-concei%C3%A7%C3%A3o-lima-52761910b/">
