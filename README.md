@@ -5,8 +5,8 @@
 ## 🚀 **Certificações, Linguagens e ferramentas - Engenharia de dados:**
 
  #### 💻 Certificações:
- Microsoft Certified: Azure Fundamentals - AZ900
- Microsoft Certified: Azure Data Fundamentals - DP900
+ ![Python]Microsoft Certified: Azure Fundamentals - AZ900
+ ![Python] Microsoft Certified: Azure Data Fundamentals - DP900
  
  #### 💻 Cursos Realizados:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
