@@ -1,6 +1,6 @@
 <h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25 px"/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /><a href="https://github.com/ronnanlimao"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ronnanlimao" alt="Visitors"></a></h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Um+engenheiro+de+dados+em+construção...;Se+preparando+para+o+futuro!)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Um+engenheiro+de+dados+em+construção...;Se+Preparando+para+o+futuro!)](https://github.com/DenverCoder1/readme-typing-svg)
 
 
 <h2 align="center"> Tecnologias </h2>
