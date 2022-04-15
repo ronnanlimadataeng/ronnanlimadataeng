@@ -4,7 +4,7 @@
 
 ## 🚀 **Certificações, Linguagens e ferramentas - Engenharia de dados:**
 
- #### 💻 Certificações:
+ #### 📝 Certificações:
 #### Microsoft Certified: Azure Fundamentals - AZ900
 #### Microsoft Certified: Azure Data Fundamentals - DP900
  
