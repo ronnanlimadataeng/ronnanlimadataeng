@@ -46,7 +46,7 @@
   </details>
 </p>
 
-<h3><img src="https://image.flaticon.com/icons/svg/197/197496.svg" width="13"/> Patrocinio Weather ⛅</h3>
+<h3> Patrocinio Weather ⛅</h3>
 <table>
   <tr>
     <th>Weather</th>
