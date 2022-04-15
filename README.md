@@ -18,7 +18,6 @@
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
  ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
  ![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=flat-square&logo=Apache-Hadoop)
- ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
  ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=flat-square&logo=Elasticsearch)
@@ -37,6 +36,7 @@
  ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins)
  ![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
  ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
+ ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
 
   <br>
 
