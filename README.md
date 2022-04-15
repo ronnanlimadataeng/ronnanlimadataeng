@@ -2,6 +2,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Currently+coding+for+fun...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
 
+
+<h2 align="center"> Technologies </h2>
+
+<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="30" width="50" /></a>
+<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="30" width="50" /></a>
+<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="50" /></a>
+<a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" width="50" /></a>
+
+----
+
+<h2 align="center"> Contact me </h2>
+
 <p>
 <a href="https://www.linkedin.com/in/ronnan-concei%C3%A7%C3%A3o-lima-52761910b/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
