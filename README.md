@@ -10,6 +10,7 @@
  
  #### 💻 Cursos Realizados:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![MySQL](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
