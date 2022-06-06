@@ -31,16 +31,3 @@ Azure Data Fundamentals - DP900
   <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
 </p>
-
-<p float="left">
-  <a href="https://github.com/ronnanlimao/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronnanlimao&count_private=true&hide_rank=true&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=My GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnanlimao&hide=jupyter%20notebook,html&langs_count=10&theme=react&hide_rank=true&layout=compact&exclude_repo=nusmods&title_color=dd58c1"/>
-  </details>
-  <details>
-    <summary>
-      <b>Contribution Graph</b>
-    </summary>
-    <a href="https://github.com/ronnanlimao/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=ronnanlimao&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1"/></a>
-  </details>
-</p>
