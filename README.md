@@ -11,10 +11,13 @@ Cloud | Linguagem  | SQL | NoSQL | ETL | Data Vizualization | Big Data / Msg
 | | | | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) || 	![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
 
-Microsoft Certified |
+Microsoft Certified Badges Link |
 ---------       |
-Azure Fundamentals - AZ900
-Azure Data Fundamentals - DP900
+[Azure Fundamentals - AZ900](https://www.credly.com/badges/23a2cfc7-8f3b-4549-8fce-f10dfc7b8cc8/public_url)
+[Azure Data Fundamentals - DP900](https://www.credly.com/badges/063070b6-a0b2-47bf-b8d8-adef5c98d774/public_url)
+[Dynamics 365 Fundamentals (CRM) - BM910](https://www.credly.com/badges/21cb640c-a9d4-44cd-ad56-bcc065a25b06/public_url)
+
+
 
 <h2 align="center"> Entre em contato comigo!! </h2>
 <p>
