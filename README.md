@@ -16,6 +16,8 @@ Microsoft Certified Badges Link |
 [Azure Fundamentals - AZ900](https://www.credly.com/badges/23a2cfc7-8f3b-4549-8fce-f10dfc7b8cc8/public_url)
 [Azure Data Fundamentals - DP900](https://www.credly.com/badges/063070b6-a0b2-47bf-b8d8-adef5c98d774/public_url)
 [Dynamics 365 Fundamentals (CRM) - MB910](https://www.credly.com/badges/21cb640c-a9d4-44cd-ad56-bcc065a25b06/public_url)
+[Azure Data Engineer Associate - DP203](https://www.credly.com/badges/3459cacd-b84a-4702-925f-66e48517cc71/public_url)
+
 
 
 
