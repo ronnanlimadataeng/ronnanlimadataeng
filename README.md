@@ -29,7 +29,10 @@ Microsoft Certified Badges Link |
 <a href="https://medium.com/@ronnanlimao">
   <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
-<a href="https://www.kaggle.com/ronnanconceicaolima">
+ <a href="https://www.youtube.com/channel/UCxD1w1cEApk7xvYqq3wFvog">
+  <img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+  <a href="https://www.kaggle.com/ronnanconceicaolima">
   <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
 </a>
 <a href="https://www.hackerrank.com/RONNAN_OK">
