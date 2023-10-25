@@ -25,10 +25,10 @@ Microsoft Certified Badges Link |
 
 <h2 align="center"> Entre em contato comigo!! </h2>
 <p>
-<a href="https://www.linkedin.com/in/ronnan-concei%C3%A7%C3%A3o-lima-52761910b/">
+<a href="https://www.linkedin.com/in/ronnanlima/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://medium.com/@ronnanlimao">
+<a href="https://medium.com/@ronnanlimadataeng">
   <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
  <a href="https://www.youtube.com/@ronnanlimadataeng">
