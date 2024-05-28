@@ -11,14 +11,16 @@ Cloud | Linguagem  | SQL | NoSQL | ETL | Data Vizualization | Big Data / Msg
 | | | ![SqlServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) || 	![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
 
-Microsoft Certified Badges Link |
----------       |
-[Azure Fundamentals - AZ900](https://www.credly.com/badges/23a2cfc7-8f3b-4549-8fce-f10dfc7b8cc8/public_url)
-[Azure Data Fundamentals - DP900](https://www.credly.com/badges/063070b6-a0b2-47bf-b8d8-adef5c98d774/public_url)
-[Dynamics 365 Fundamentals (CRM) - MB910](https://www.credly.com/badges/21cb640c-a9d4-44cd-ad56-bcc065a25b06/public_url)
-[Microsoft 365 Certified: Fundamentals - MS-900](https://www.credly.com/badges/2673816e-c80f-4449-8ee8-14a46a53dfc3/public_url)
-[Microsoft Certified: Security, Compliance, and Identity Fundamentals - SC-900](https://www.credly.com/badges/c4ae3c89-ea63-477a-a56d-d6ad9a782a0d/public_url)
-[Azure Data Engineer Associate - DP203](https://www.credly.com/badges/3459cacd-b84a-4702-925f-66e48517cc71/public_url)
+| Microsoft Certified Badges Link |
+|:---------:|
+| [Azure Fundamentals - AZ900](https://www.credly.com/badges/23a2cfc7-8f3b-4549-8fce-f10dfc7b8cc8/public_url) |
+| [Azure Data Fundamentals - DP900](https://www.credly.com/badges/063070b6-a0b2-47bf-b8d8-adef5c98d774/public_url) |
+| [Dynamics 365 Fundamentals (CRM) - MB910](https://www.credly.com/badges/21cb640c-a9d4-44cd-ad56-bcc065a25b06/public_url) |
+| [Microsoft 365 Certified: Fundamentals - MS-900](https://www.credly.com/badges/2673816e-c80f-4449-8ee8-14a46a53dfc3/public_url) |
+| [Microsoft Certified: Security, Compliance, and Identity Fundamentals - SC-900](https://www.credly.com/badges/c4ae3c89-ea63-477a-a56d-d6ad9a782a0d/public_url) |
+| [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/pt-br/users/ronnanlima/credentials/c0b581dd06f669e2?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+| [Microsoft Certified Trainer](https://learn.microsoft.com/pt-br/users/ronnanlima/credentials/c0b581dd06f669e2?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+| [Azure Data Engineer Associate - DP203](https://www.credly.com/badges/3459cacd-b84a-4702-925f-66e48517cc71/public_url) |
 
 
 
