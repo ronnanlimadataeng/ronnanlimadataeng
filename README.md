@@ -3,6 +3,19 @@
 [![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=ronnanlimao)](https://github.com/ronnanlimao)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=24&lines=Conhecimento+é+poder!;Junte-se+à+minha+missão+de+compartilhar!)](https://github.com/DenverCoder1/readme-typing-svg)
 
+## Segue lá!
+<a href="https://www.linkedin.com/in/ronnanlima/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/@ronnanlimadataeng">
+  <img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/ronnanlimadataeng/">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.tiktok.com/@ronnanlimadataeng">
+  <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
 
 ## Principais Competências e Stack Tecnológico
 
@@ -31,20 +44,3 @@ Sou cofundador da [Comunidade Brains](https://comunidade.brains.dev/), onde cola
 - [Microsoft Certified Trainer](https://learn.microsoft.com/pt-br/users/ronnanlima/credentials/c0b581dd06f669e2?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Azure Data Engineer Associate - DP203](https://www.credly.com/badges/3459cacd-b84a-4702-925f-66e48517cc71/public_url)
 
-
-
-
-## Me Encontre nas Seguintes Redes!
-
-<a href="https://www.linkedin.com/in/ronnanlima/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.youtube.com/@ronnanlimadataeng">
-  <img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/ronnanlimadataeng/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.tiktok.com/@ronnanlimadataeng">
-  <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
