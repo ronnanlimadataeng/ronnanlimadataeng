@@ -1,6 +1,6 @@
 <h2>Seja Bem Vindo!<a href="https://github.com/ronnanlimao"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ronnanlimao" alt="Visitantes"></a></h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Não+existe+sucesso+sem+esforço...+aprenda+sempre;!)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Não+existe+sucesso+sem+esforço...+aprenda+sempre!)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <h2 align="center"> Stacks de Tecnologia </h2>
 
